@@ -1,0 +1,66 @@
+.margin1{
+    margin: 0 20px;
+}
+
+.naiyou{
+    color: white;
+    background-color: #514A51;
+    border-radius: 5px;
+    padding: 10px 20px;
+    width: 33%;
+    margin: 10px auto;   
+}
+
+.title{
+    padding: 0.5em 1em;
+    margin: 2em 0;
+    font-weight: bold;
+    width: auto;
+}
+
+.naiyou p{
+    margin: 0;
+    padding: 0;
+}
+
+.php_font_1{
+    font-size: 20px;
+}
+
+.logo_div > #username{
+    float: right;
+    background-color: #514A51;
+    color: white;
+    width: 15%;
+    font-size: 1.2em;
+    margin-top: 20px;
+}
+
+.background2{
+    background-color: rgba(247, 239, 217, 200);
+    height: 100%;
+}
+
+.img{
+    width: 15em;
+    height: 15em;
+    margin: 0 auto;
+    
+}
+
+.upper{
+    position:fixed;
+    right:50px;
+    bottom:50px;
+    transition:1s;
+    opacity:0.7;
+    width: 10em;
+    height: 10em;
+    background-image: url(../../toukou.png);
+    background-size: contain;
+    
+}
+    
+.upper:hover{
+    opacity:1;
+}

@@ -1,0 +1,205 @@
+a {
+    text-decoration:none;
+    color: white;
+}
+
+body{
+    margin: 0;
+}
+
+.h2{
+    font-size: 30px;
+    padding-top: 20px;
+    margin-top: 0px;
+    text-align: center;
+}
+
+.p1{
+    color: #514A51;
+    margin-bottom: 0;
+}
+
+.main{
+    width: 100%;
+    margin: 0 auto;
+}
+
+.background{
+    margin-top: 0;
+    background-color: #DC5B77;
+}
+
+.search{
+    padding: 30px 0px;
+    text-align: center;
+}
+
+.appname{
+    display: inline-block;
+    text-align: center;
+    margin-bottom: 0px;
+    height: 40px;
+    padding-left: 10%;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.login{
+    display: inline-block;
+}
+
+nav {
+    text-align: center;
+}
+
+.login_w{
+    width: 100%;
+}
+
+/* ボタン */
+a.btn_06 {
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    height: 50px;
+    box-sizing: border-box;
+    background: repeating-linear-gradient(45deg, #ffffff, #ffffff 3px, #e7e7e7 3px, #e7e7e7 30px);
+    color: #333;
+    font-size: 14px;
+    letter-spacing: 0.1em;
+    text-decoration: none;
+    position: relative;
+    margin-bottom: 10px;
+  }
+  a.btn_06 span {
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 50px;
+    background: #fff;
+    border: 1px solid #000;
+    box-sizing: border-box;
+    position: absolute;
+    top: -6px;
+    left: -6px;
+    transition-duration: 0.2s;
+    margin-bottom: 10px;
+  }
+  a.btn_06:hover span {
+    left: -1px;
+    top: -1px;
+  }
+
+
+
+.logo_div{
+    text-align: center;
+    width: 75%;
+    padding-top: 30px;
+    margin: 0px auto 0px auto;
+}
+
+h2{
+    text-align: center;
+    padding-top: 20px;
+}
+
+.php_data{
+    margin: 0 auto;
+    background-color: #514A51;
+}
+
+/*button tmp*/
+
+.btn{
+  font-size: 1.0rem;
+  font-weight: 400;
+  line-height: 1.0;
+  position: relative;
+  display: inline-block;
+  padding: 1rem 4rem;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  text-align: center;
+  vertical-align: middle;
+  text-decoration: none;
+  letter-spacing: 0.1em;
+  color: #212529;
+  border-radius: 0.5rem;
+}
+
+.btn--orange{
+  color: #fff;
+  background-color: #eb6100;
+}
+
+.btn--orange:hover{
+  color: #fff;
+  background: #f56500;
+}
+/*button tmp*/
+
+
+/* 検索フォーム */
+.cp_iptxt {
+	position: relative;
+    display: inline-block;
+	width: 25%;
+	margin: 20px 5px;
+}
+.cp_iptxt input[type='text'] {
+	font: 15px/24px sans-serif;
+	box-sizing: border-box;
+	width: 100%;
+	padding: 0.3em;
+	padding-left: 40px;
+	letter-spacing: 1px;
+	border: 0;
+}
+
+.cp_iptxt input[type='text']:focus {
+	outline: none;
+}
+.cp_iptxt input[type='text']:focus::after {
+	outline: none;
+}
+.cp_iptxt i {
+	position: absolute;
+	top: 0;
+	left: 0;
+	padding: 9px 5px;
+	transition: 0.3s;
+	color: #aaaaaa;
+}
+.cp_iptxt::after {
+	display: block;
+	width: 100%;
+	height: 4px;
+	margin-top: -1px;
+	content: '';
+	border-width: 0 1px 1px 1px;
+	border-style: solid;
+	border-color: #da3c41;
+}
+
+.cp_iptxt input[type='password'] {
+	font: 15px/24px sans-serif;
+	box-sizing: border-box;
+	width: 100%;
+	padding: 0.3em;
+	padding-left: 40px;
+	letter-spacing: 1px;
+	border: 0;
+}
+
+.cp_iptxt input[type='password']:focus {
+	outline: none;
+}
+.cp_iptxt input[type='password']:focus::after {
+	outline: none;
+}

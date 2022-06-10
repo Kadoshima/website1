@@ -3,3 +3,4 @@
 過去に使った教科書を売買することで、紙の無駄を減らし、環境に良い影響を与えることができるのではないか、という構想より始まったプロジェクトです。
 
 アプリケーションの説明動画は、以下のURLから閲覧可能です。
+https://drive.google.com/drive/folders/12VJnZYApiAaJnVCwiQ7VRJuz89Xa20ZY?usp=sharing

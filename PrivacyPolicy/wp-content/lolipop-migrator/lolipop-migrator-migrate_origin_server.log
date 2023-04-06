@@ -1,0 +1,4 @@
+2023-03-26 12:54:37 - INFO - {"os":"Linux","memory_limit":"1024M","archive_type":"zip-command","php_version":"8.1.17","mysql_version":"5.7.36","wordpress_version":"6.1.1","wordpress_table_prefix":"wp20230322133133_","wordpress_db_size":"1916928"}
+2023-03-26 12:54:37 - INFO - [start] dumper:Lolipop_Migrator_Mysqldump_Dumper - データベースのダンプを開始
+2023-03-26 12:54:37 - INFO - [end] dumper:Lolipop_Migrator_Mysqldump_Dumper - データベースのダンプを終了
+2023-03-26 12:54:37 - INFO - [start] archiver:Lolipop_Migrator_Zip_Command_Archiver - ファイルのアーカイブを開始

@@ -1,0 +1,16 @@
+{
+  "apiVersion": 2,
+  "name": "cocoon-blocks/search-box",
+  "category": "cocoon-block",
+  "keywords": [ "search", "box" ],
+
+  "attributes": {
+    "content": {
+      "type": "string",
+      "default": "キーワード"
+    }
+  },
+  "supports": {
+    "anchor": true
+  }
+}

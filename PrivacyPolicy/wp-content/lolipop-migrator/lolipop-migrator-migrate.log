@@ -1,0 +1,5 @@
+2023-03-26 12:54:37 - INFO - {"os":"Linux","memory_limit":"1024M","archive_type":"zip-command","php_version":"8.1.17","mysql_version":"5.7.36","wordpress_version":"6.1.1","wordpress_table_prefix":"wp20230322133133_","wordpress_db_size":"802816"}
+2023-03-26 12:54:41 - INFO - [start] extractor:Lolipop_Migrator_Unzip_Command_Extractor - アーカイブファイルの展開を開始
+2023-03-26 12:54:41 - INFO - [end] extractor:Lolipop_Migrator_Unzip_Command_Extractor - アーカイブファイルの展開を終了 - file:/home/users/0/mods.jp-crystal/web/api/PrivacyPolicy/wp-content/lolipop-migrator/lolipop-migrator-archive.zip
+2023-03-26 12:54:41 - INFO - [start] restorer:Lolipop_Migrator_Mysql_Command_Restorer - データベースのリストアを開始
+2023-03-26 12:54:41 - INFO - [end] restorer:Lolipop_Migrator_Mysql_Command_Restorer - データベースのリストアを終了
